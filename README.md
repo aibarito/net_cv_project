@@ -38,6 +38,6 @@ It will run the client locally and in your browser, go to this link -> http://lo
 # Troubleshooting
 
 ### Important notes:
-1) The server runs on the Azure Portal remotely, but the client site is hosted locally.
+1) The server runs on the Azure Portal remotely, but the client site is hosted locally. It can be hosted to the remote address using Azure Server.
 
 
